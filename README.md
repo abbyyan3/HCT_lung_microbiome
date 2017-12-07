@@ -3,8 +3,6 @@ Sequences and metadata for human and murine hematopoietic cell transplantation (
 
 Data files used for analysis in "Lung dysbiosis, inflammation, and injury in hematopoietic cell transplantation" by O'Dwyer et al (submitted).	Questions: Robert Dickson at rodickso@med.umich.edu
 
-Directory: /mouse_lung_microbiome_heterogeneity
-
 Directory: /HCT_human_microbiome
 
 	HCT_human_microbiome_sequences.zip - sequence files (.fastq)
